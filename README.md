@@ -5,8 +5,6 @@ WIP. Lightweight Implementation of a versatile Feed-Forward Neural Network that 
 - Stochastic Gradient Descent for Online Training
   - Naive Gradient Descent
   - Adaptive Learning Rate with ADAM implemented
-- focused on computationally efficient methods 
-  - Gradient Clipping to maintain numerical stability on Single Precision Float System
 - Mini-Batch Gradient Descent 
 - Regularization Methods to reduce overfitting and keep weights small
   - L2 (Ridge Regression) 
@@ -16,5 +14,7 @@ WIP. Lightweight Implementation of a versatile Feed-Forward Neural Network that 
   - leaky ReLu 
   - Linear
 - Implemented Barrier Methods for Constrained Outputs 
+- focused on computationally efficient methods 
+  - Gradient Clipping to maintain numerical stability on Single Precision Float System
 - Use Arduino-ESP32 Preferences Library to save weights on Flash
 
